@@ -1,7 +1,7 @@
 # Conversor de Graus Celsius em Fahrenheit
 
 ## O que é isso?
-Este é um exercício que solicita converte a temperatura em graus Celsius pra Fahrenheit.
+Este é um exercício que converte a temperatura de graus Celsius pra graus em Fahrenheit.
 
 ## Qual tecnologia usei?
 Linguagem - Phyton
